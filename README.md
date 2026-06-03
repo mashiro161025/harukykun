@@ -11,7 +11,7 @@
 </div>
 
 **<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="conghuy16102005" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://twitter.com/@harukykun" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://www.youtube.com/@@mashiro1016-v4g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 8px"></a></p>
+<p align="center"><a href="mailto:conghuy16102005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://twitter.com/@harukykun" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://www.youtube.com/@@mashiro1016-v4g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 8px"></a></p>
 
  **<h3 align="left">🚀 Applied AI Engineer passionate about designing and deploying intelligent systems for real-world applications. Proficient in integrating AI models into scalable products, improving system performance, and building practical solutions that combine software engineering with modern AI technologies.</h3>**
 
