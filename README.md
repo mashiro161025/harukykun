@@ -19,7 +19,6 @@
 
 - 🌱 I'm currently learning: **📚 Still Studying**
 - 💬 Ask me about: **💡 Machine Learning, Deep Learning, Reinforcement Learning, Transformer,...**
-- 📂 Portfolio: **<a href="https://mashiroo.me" target="_blank">https://mashiroo.me</a>**
 
  **<h3 align="left">Skills</h3>**
 
